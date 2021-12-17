@@ -1,16 +1,22 @@
-### Hi there 👋
+<h1 align="center"> <b>Oi, me chamo Gabriel e este é meu repositorio  (～￣▽￣)～</b> 🚀</h1>
+<h2 align="center">Instrutor | Desenvolvedor Games & Front-End</h2>
 
-<!--
-**Gabiru-cpu/Gabiru-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img align="right" width="400px" src="./imgBackground.png">
 
-Here are some ideas to get you started:
+<br><br><br><br><br>
+##
+- 🔭 Hoje trabalho como Instrutor de desenvolvimento de jogos
+- 📫 Se quiser me mandar um e-mail: **gabriellibrande@gmail.com**
+- 🌱 Estudando React & MySQL
+- 😄 Pronouns: ele/dele
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<br><br>
+
+<div style="display: flex; align-items: center; justify-content: center;">
+    <a href="https://github.com/Gabiru-cpu?tab=repositories">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabiru-cpu&show_icons=true&locale=en&theme=radical" alt="Gabiru-cpu" />  
+	  <img height="-375em" width="500em" align="right" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+      
+</div>
+
