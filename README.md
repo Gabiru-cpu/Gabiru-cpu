@@ -13,7 +13,7 @@
 <h2 align="left">My social networks:</h2>
 
 <div  style="height:display: inline_block align-items: center; justify-content: center; ">
-<img height="55rem" width="55rem" align="left" src="https://api.iconify.design/logos/youtube-icon.svg"/>
+<a href="https://www.youtube.com/channel/UCIIOPtpq0EL0BBX6c34hSpg"><img height="55rem" width="55rem" align="left" src="https://api.iconify.design/logos/youtube-icon.svg"/></a>
 <img height="50rem" width="50rem" align="left" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png"/>	
 <img height="50rem" width="50rem" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" />
 <img height="50rem" width="50rem" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" />
