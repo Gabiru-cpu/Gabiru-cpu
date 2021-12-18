@@ -59,10 +59,10 @@
 
 <br><br>
 
-<div style="display: flex; align-items: center; justify-content: center;">
+<div>
 	
-    <a href="https://github.com/Gabiru-cpu?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabiru-cpu&show_icons=true&locale=en&theme=radical" alt="Gabiru-cpu" />  
-    <img height="-375em" width="500em" align="right" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-	    
+<a href="https://github.com/Gabiru-cpu">
+ <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiru-cpu&layout=compact&langs_count=7&theme=radical"/>
+  <img height="-375em" width="500em" align="right" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>	
+	
 </div>
