@@ -12,9 +12,10 @@
 - 🌱 Estudando: React & MySQL
 - 😄 Pronouns: ele/dele
 - 📖 Cursando: 2° semestre de ADS na <a href="https://fatecrl.edu.br">**Fatec**</a> de Santos
+
 <br><br><br><br><br><br>
 <h2 align="left">My social networks:</h2>
-
+<img align="right" width="125px" src="./animation.gif">
 <div  style="height:display: inline_block align-items: center; justify-content: center; ">
 <a href="https://www.youtube.com/channel/UCIIOPtpq0EL0BBX6c34hSpg"><img height="55rem" width="55rem" align="left" src="https://api.iconify.design/logos/youtube-icon.svg"/></a>
 <img height="50rem" width="50rem" align="left" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png"/>
@@ -53,7 +54,6 @@
 <div style="display: flex; align-items: center; justify-content: center;">
     <a href="https://github.com/Gabiru-cpu?tab=repositories">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Gabiru-cpu&show_icons=true&locale=en&theme=radical" alt="Gabiru-cpu" />  
-	  <img height="-375em" width="500em" align="right" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-      
+	  <img height="-375em" width="500em" align="right" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>      
 </div>
 
