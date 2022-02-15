@@ -1,4 +1,4 @@
-<h1 align="center"> <b>Oi, me chamo Gabriel e este é meu repositório  (～￣▽￣)～</b> 🚀</h1>
+<h1 align="center"> <b>Oi, me chamo Gabriel e este é meu repositório  ( ￣▽￣)</b> 🚀</h1>
 <p align="center">Hi, my name is Gabriel and this is my repository ( ﾉ ﾟ▽ ﾟ)ﾉ</p>
 
 <h2 align="center">Instrutor | Desenvolvedor Games & Front-End</h2>
