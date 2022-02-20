@@ -25,7 +25,6 @@
 <a href="https://www.youtube.com/channel/UCIIOPtpq0EL0BBX6c34hSpg"><img height="55rem" width="55rem" align="left" src="https://api.iconify.design/logos/youtube-icon.svg"/></a>
 <img height="50rem" width="50rem" align="left" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png"/>
 <a href="https://www.linkedin.com/in/gabriel-henrique-b426ab20b/"><img height="50rem" width="50rem" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
-<a href="https://twitter.com/_Gabriru"><img height="50rem" width="50rem" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" /></a>
 <a href="https://discord.gg/e5mKzgwJ9E"><img height="50rem" width="50rem" align="left" src="https://api.iconify.design/logos/discord-icon.svg"/></a>
 <a href="https://www.instagram.com/designl4b/"><img height="50rem" width="50rem" align="left" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"/>	</a>
 	
