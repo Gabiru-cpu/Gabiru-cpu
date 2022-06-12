@@ -19,7 +19,7 @@
 
 <h2 align="left">My social networks:</h2>
 
-<img align="right" width="5rem" src="./animation.gif">
+<img align="right" width="40" src="./animation.gif">
 
 <div  style="height:display: inline_block align-items: center; justify-content: center; ">
 <a href="https://www.youtube.com/channel/UCIIOPtpq0EL0BBX6c34hSpg"><img height="55rem" width="55rem" align="left" src="https://api.iconify.design/logos/youtube-icon.svg"/></a>
