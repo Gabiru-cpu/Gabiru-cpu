@@ -9,7 +9,7 @@
 
 <br><br>
 
-- 🔭 Trabalhando: como Instrutor de desenvolvimento de jogos
+- 🔭 buscando ingressar na área de desenvolvimento
 - 📫 Se quiser me mandar um e-mail: **gabriellibrande@gmail.com**
 - 🌱 Estudando: React & MySQL
 - 😄 Pronouns: ele/dele
