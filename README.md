@@ -14,7 +14,7 @@
 - 🌱 Estudando: React & MySQL
 - 😄 Pronouns: ele/dele
 - 📖 Cursando: 4° semestre de ADS na <a href="https://fatecrl.edu.br">**Fatec**</a> de Santos
-- 🤓 Blog: <a href="gabriel-blog.netlify.app">**gabriel-blog.netlify.app**</a>
+- 🤓 Blog: gabriel-blog.netlify.app
 
 <br><br><br><br><br><br>
 
