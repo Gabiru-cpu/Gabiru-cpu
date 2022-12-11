@@ -13,7 +13,8 @@
 - 📫 Se quiser me mandar um e-mail: **gabriellibrande@gmail.com**
 - 🌱 Estudando: React & MySQL
 - 😄 Pronouns: ele/dele
-- 📖 Cursando: 3° semestre de ADS na <a href="https://fatecrl.edu.br">**Fatec**</a> de Santos
+- 📖 Cursando: 4° semestre de ADS na <a href="https://fatecrl.edu.br">**Fatec**</a> de Santos
+- 🤓 Blog: <a href="https://fatecrl.edu.br">**gabriel-blog.netlify.app**</a>
 
 <br><br><br><br><br><br>
 
