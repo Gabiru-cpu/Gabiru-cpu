@@ -23,8 +23,7 @@
 <img align="right" width="135" src="./animation.gif">
 
 <div  style="height:display: inline_block align-items: center; justify-content: center; ">
-<a href="https://www.youtube.com/channel/UCIIOPtpq0EL0BBX6c34hSpg"><img height="55rem" width="55rem" align="left" src="https://api.iconify.design/logos/youtube-icon.svg"/></a>
-<img height="50rem" width="50rem" align="left" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png"/>
+<a href="https://www.twitch.tv/gabiru_twitch"><img height="50rem" width="50rem" align="left" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png"/> </a>
 <a href="https://www.linkedin.com/in/gabriel-henrique-b426ab20b/"><img height="50rem" width="50rem" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://discord.gg/e5mKzgwJ9E"><img height="50rem" width="50rem" align="left" src="https://api.iconify.design/logos/discord-icon.svg"/></a>
 <a href="https://www.instagram.com/designl4b/"><img height="50rem" width="50rem" align="left" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"/>	</a>
@@ -37,7 +36,6 @@
 
 <div  style=" height:display: inline_block align-items: center; justify-content: center;">
 	
-<a href="https://www.arduino.cc"> <img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" /></a>
 <a href="https://www.oracle.com/br/java/"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
 <a href="https://pt-br.reactjs.org"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
 <a href="https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
