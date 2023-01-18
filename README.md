@@ -1,8 +1,7 @@
-<h1 align="center"> <b>Oi, me chamo Gabriel e este é meu Github  ( ￣▽￣)</b> 🚀</h1>
-<p align="center">Hi, my name is Gabriel and this is my Github ( ﾉ ﾟ▽ ﾟ)ﾉ</p>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
 
-<h2 align="center">Instrutor | Desenvolvedor Games & Front-End</h2>
-<p align="center">Instructor | Games & Front-End Developer</p>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Librande;I'm+19+years+old;I+from+Brasil,+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 <br><br>
 
 <img align="right" width="300px" src="./imgBackground.png">
@@ -55,12 +54,12 @@
 
 </div>
 
-<br><br>
+<div align="left">  
+ <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Librande github stats" /> 
 
-<div>
-	
-<a href="https://github.com/Gabiru-cpu">
- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gabiru-cpu&layout=compact&langs_count=7&theme=radical"/>
-  <img height="-375em" width="470em" align="right" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>	
-	
+<img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabiru-cpu&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117"/>
 </div>
+
+<br><br>
+<h2 align="left">Visitors Count:</h2>
+<img align="left" src="https://profile-counter.glitch.me/{Gabiru-cpu}/count.svg" />
