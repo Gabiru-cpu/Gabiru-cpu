@@ -8,7 +8,6 @@
 
 - 🔭 buscando ingressar na área de desenvolvimento
 - 📫 Se quiser me mandar um e-mail: **gabriellibrande@gmail.com**
-- 🌱 Estudando: React & MySQL
 - 😄 Pronouns: ele/dele
 - 📖 Cursando: 4° semestre de ADS na <a href="https://fatecrl.edu.br">**Fatec**</a> de Santos
 - 🤓 Blog: <a href="https://gabriel-blog.netlify.app">**gabriel-blog.netlify.app**</a>
