@@ -52,8 +52,8 @@
 </div>
 
 <div align="left">  
- <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&count_private=true&hide_border=true&title_color=f04b54&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Librande github stats" /> 
-
+<img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=f04b54&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Librande github stats" />
+	
 <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabiru-cpu&layout=compact&hide_border=true&title_color=f04b54&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
