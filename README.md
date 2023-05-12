@@ -58,5 +58,8 @@
 </div>
 
 <br><br>
+
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=Gabiru-cpu&repo=Gabiru-cpu&theme=react)](https://github.com/Gabiru-cpu/Gabiru-cpu)
+
 <h2 align="left">Visitors Count:</h2>
 <img align="left" src="https://profile-counter.glitch.me/{Gabiru-cpu}/count.svg" />
