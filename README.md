@@ -1,16 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f04b54&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd3b42&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Gabriel+Librande;I'm+20+years+old;I+from+Brasil,+SP;I+study+analysis+and+systems+development+at+FATEC;Be+Welcome!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=bd3b42&size=35&center=true&vCenter=true&width=1000&lines=HELLO%2C+MY+NAME+IS+Gabriel+Librande;I%27M+20+YEARS+OLD;I+FROM+BRASIL%2C+SP;I+STUDY+ANALYSIS+AND+SYSTEMS+DEVELOPMENT+AT+FATEC;BE+WELCOME!+%3A%29)](https://git.io/typing-svg)
 
 <br><br>
 
 <img align="right" width="300px" src="./imgBackground.png">
 
-- 🔭 buscando ingressar na área de desenvolvimento
-- 📫 Se quiser me mandar um e-mail: **gabriellibrande@gmail.com**
-- 😄 Pronouns: ele/dele
-- 📖 Cursando: 4° semestre de ADS na <a href="https://fatecrl.edu.br">**Fatec**</a> de Santos
-- 🤓 Blog: <a href="https://gabriel-blog.netlify.app">**gabriel-blog.netlify.app**</a>
+- 📫 If you want to send me an email: gabriellibrande@gmail.com
+- 😄 Pronouns: he/him
+- 📖 Studying: 4th semester of ADS at [Fatec](https://fatecrl.edu.br) in Santos.
+- 🤓 Blog: [gabriel-blog.netlify.app](https://gabriel-blog.netlify.app)
 
 <br><br><br><br><br><br>
 
@@ -18,7 +17,7 @@
 
 <img align="right" width="135" src="./animation.gif">
 
-<div  style="height:display: inline_block align-items: center; justify-content: center; ">
+<div style="display: inline_block; align-items: center; justify-content: center;">
 <a href="https://www.twitch.tv/gabiru_twitch"><img height="50rem" width="50rem" align="left" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png"/> </a>
 <a href="https://www.linkedin.com/in/gabriel-henrique-b426ab20b/"><img height="50rem" width="50rem" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://discord.gg/e5mKzgwJ9E"><img height="50rem" width="50rem" align="left" src="https://api.iconify.design/logos/discord-icon.svg"/></a>
@@ -30,7 +29,7 @@
 
 <h2 align="left">Languages and Tools:</h2>
 
-<div  style=" height:display: inline_block align-items: center; justify-content: center;">
+<div style="display: inline_block; align-items: center; justify-content: center;">
 	
 <a href="https://www.oracle.com/br/java/"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
 <a href="https://pt-br.reactjs.org"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
@@ -53,7 +52,7 @@
 
 <div align="left">  
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Gabiru-cpu&show_icons=true&locale=en&count_private=true&hide_border=true&title_color=f04b54&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Gabriel Librande github stats" />
-	
+
 <img width="41%" height="195px" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Gabiru-cpu&layout=compact&hide_border=true&title_color=f04b54&text_color=00bfbf&bg_color=0d1117"/>
 </div>
 
