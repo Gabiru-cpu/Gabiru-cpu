@@ -21,7 +21,7 @@
 <a href="https://www.twitch.tv/gabiru_twitch"><img height="50rem" width="50rem" align="left" src="https://seeklogo.com/images/T/twitch-logo-4931D91F85-seeklogo.com.png"/> </a>
 <a href="https://www.linkedin.com/in/gabriel-henrique-b426ab20b/"><img height="50rem" width="50rem" align="left" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" /></a>
 <a href="https://discord.gg/e5mKzgwJ9E"><img height="50rem" width="50rem" align="left" src="https://api.iconify.design/logos/discord-icon.svg"/></a>
-<a href="https://www.instagram.com/designl4b/"><img height="50rem" width="50rem" align="left" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"/>	</a>
+<a href="https://www.instagram.com/gab.librande/"><img height="50rem" width="50rem" align="left" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Instagram_icon-icons.com_66804.png"/>	</a>
 	
 </div>
 
@@ -31,16 +31,18 @@
 
 <div style="display: inline_block; align-items: center; justify-content: center;">
 	
-<a href="https://www.oracle.com/br/java/"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" /></a>
+<a href="https://dotnet.microsoft.com/pt-br/"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/376369/dotnet.svg" /></a>
+<a href="https://spring.io/projects/spring-boot"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/354380/spring-icon.svg" /></a>
+<a href="https://laravel.com"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/353985/laravel.svg" /></a>
 <a href="https://pt-br.reactjs.org"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" /></a>
 <a href="https://blog.betrybe.com/linguagem-de-programacao/linguagem-c/"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" /></a>
 <a href="https://www.sonarsource.com/cpp-bis/?gads_campaign=South-America-Language&gads_ad_group=cpp&gads_keyword=c%2B%2B&gclid=CjwKCAiAh_GNBhAHEiwAjOh3ZF8GKtlphHNpRzXqN7yOAgE1AvEhZadocT9EY20rk8nPgr_1Qfa8oBoCc_AQAvD_BwE"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" /></a>
-<a href="https://docs.microsoft.com/pt-br/dotnet/csharp/"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" /></a>
-<a href="https://www.hostinger.com.br/tutoriais/o-que-e-html-conceitos-basicos"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" /></a>
-<a href="https://www.w3schools.com/css/"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" /></a>
-<a href="https://www.typescriptlang.org"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" /></a>
-<a href="https://git-scm.com"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /></a>
+<a href="https://angular.io"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/353396/angular-icon.svg" /></a>
+<a href="https://getbootstrap.com"><img height="40rem" width="45rem" src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" /></a>
+<a href="https://www.figma.com"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/452202/figma.svg" /></a>
+<a href="https://www.postman.com"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/354202/postman-icon.svg" /></a>
+<a href="https://www.postman.com"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/353422/archlinux.svg" /></a>
+<a href="https://www.docker.com"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/452192/docker.svg" /></a>
 <a href ="https://www.adobe.com/br/products/illustrator.html"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
 <a href="https://www.adobe.com/br/products/photoshop.html"><img height="40rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
 <a href="https://godotengine.org"><img height="45rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
