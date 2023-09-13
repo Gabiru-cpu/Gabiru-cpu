@@ -45,7 +45,6 @@
 <a href="https://www.docker.com"><img height="40rem" width="45rem" src="https://www.svgrepo.com/show/452192/docker.svg" /></a>
 <a href ="https://www.adobe.com/br/products/illustrator.html"><img height="40rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" /></a>
 <a href="https://www.adobe.com/br/products/photoshop.html"><img height="40rem" width="50rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" /></a>
-<a href="https://godotengine.org"><img height="45rem" width="45rem" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" /></a>
 <a href="https://www.yoyogames.com/pt-BR"><img height="40rem" width="45rem" src="https://img.utdstc.com/icon/09b/8c5/09b8c56ebaf0e8528022d175284f4ff0ba793b664086c5c5e668879cf4a06245:200"/></a>
 <a href="https://unity.com/pt"><img height="40rem" width="35rem" src="https://i.imgur.com/53LTGx6.png" /></a>
 <a href="https://www.unrealengine.com/en-US/"><img height="45rem" width="45rem" src="https://i.imgur.com/osYBJMq.png"/></a>
