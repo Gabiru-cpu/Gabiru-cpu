@@ -6,9 +6,10 @@
 
 <img align="right" width="300px" src="./imgBackground.png">
 
+- 💼 Full-Stack Developer at [7COMm](https://www.7comm.com.br)
 - 📫 If you want to send me an email: gabriellibrande@gmail.com
 - 😄 Pronouns: he/him
-- 📖 Studying: 5th semester of ADS at [Fatec](https://fatecrl.edu.br) in Santos.
+- 📖 Studying: 5th semester of ADS at [Fatec](https://fatecrl.edu.br) in Santos
 - 🤓 Blog: [gabriel-blog.netlify.app](https://gabriel-blog.netlify.app)
 
 <br><br><br><br><br><br>
