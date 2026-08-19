@@ -6,7 +6,7 @@
 
 <img align="right" width="300px" src="./imgBackground.png">
 
-- 💼 Full-Stack Developer at [7COMm](https://www.7comm.com.br)
+- 💼 Full-Stack Developer Pleno at [Avanade](https://www.avanade.com/en)
 - 📫 If you want to send me an email: gabriel_librande@hotmail.com
 - 😄 Pronouns: he/him
 - 🎓 Graduated in Analysis and Systems Development from [Fatec](https://fatecrl.edu.br) in Santos
